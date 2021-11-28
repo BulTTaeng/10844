@@ -25,11 +25,11 @@ After that, I found that there is no pattern with is problem.
 
 The next though started from the tree structure I write.
 
-      - i-1
+        - i-1
     
-i--|
+i  --|
 
-      - i+1 
+        - i+1 
 
 With it I found there are 3 cases.
 
